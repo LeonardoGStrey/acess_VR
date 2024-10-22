@@ -16,9 +16,16 @@
 <p>Nosso projeto visa melhorar a acessibilidade das pessoas com deficiência, utilizando a tecnologia de VR, fazendo um trabalho de transcrever texto em fala.</p>
 
 <h2>Objetivos</h2>
-<p>Desenvolver um aplicativo </p>
+<p>Desenvolver um aplicativo de realidade aumentada que vise a inclusão de pessoas com deficiência</p>
 <p>Promover a inclusão social utilizando a tecnologia da realidade aumentada</p>
 <p>Aprimorar as habilidades de desenvolvimento de aplicativos e melhorar o desenvolvimento de pesquisas cientificas </p>
 
 <h2>Justificativa</h2>
 <p>Esse projeto foi desenvolvido quando percebemos a falta de acessibilidade nas escolas brasileiras</p>
+
+<h2>Ferramentas Utilizadas</h2>
+<p>Utilizamos a linguagem: C#</p>
+<p>Utilizamos o Meta Xr All-in-one SDK </p>
+<p>Não usamos banco de dados</p>
+<p>Desenvolvemos utilizando o Unreal Engine 4</p>
+<p></p>
