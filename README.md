@@ -1,4 +1,4 @@
-# **Acessibilidade na Realidade Aumentada**
+# ***Acessibilidade na Realidade Aumentada***
 
 <h2>Introdução</h2>
 <p>Faremos um projeto onde terá um hub que traduzirá as palavras ditas para um texto.</p> 
